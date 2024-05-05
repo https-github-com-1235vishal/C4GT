@@ -910,7 +910,10 @@
   </tr>
 </table>
 
+
+ 
     <table>
+
       <tr>
         <td>Name</td>
         <td>Vishal Rajput</td>
@@ -924,7 +927,12 @@
         <td>https://www.linkedin.com/in/vishal-rajput-7b421a203/</td>
       </tr>
       <tr>
+        <td> My Portfolio</td>
+        <td>https://vishdev1235.netlify.app/</td>
+      </tr>
+      <tr>
         <td>College</td>
         <td>Lakshmi Narain College of Technology & Science Bhopal</td>
       </tr>
     </table>
+
