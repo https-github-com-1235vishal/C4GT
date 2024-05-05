@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Vishal Rajput</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/1235vishal</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/vishal-rajput-7b421a203/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Lakshmi Narain College of Technology & Science Bhopal</td>
+      </tr>
+    </table>
